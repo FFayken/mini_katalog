@@ -1,5 +1,7 @@
 # Mini Katalog Uygulaması
 
+🔗 **GitHub:** https://github.com/FFayken/mini_katalog
+
 Flutter ile geliştirilmiş basit ama profesyonel görünümlü bir **ürün katalog uygulaması**.
 Ürünleri grid görünümünde listeler, arama ve kategori filtresi sunar, ürün detayına geçer ve sepet simülasyonu yapar.
 
@@ -35,7 +37,7 @@ Gereksinimler: Flutter SDK 3.50+ ve bir cihaz/emülatör (Android Emulator, fizi
 
 ```bash
 # 1. Repoyu indirin
-git clone <repo-adresi>
+git clone https://github.com/FFayken/mini_katalog.git
 cd mini_katalog
 
 # 2. Bağımlılıkları alın
